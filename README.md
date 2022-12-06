@@ -16,4 +16,14 @@ I thought I'd take a more pythonic approach on day 2.
 I decided it was quickest to configure some static maps for various points and game play results,
 then again keep a running calculation as I read in the input.
 
-## day 3
+## Day 3
+
+Another figure out something and sum the input.
+Maybe I should go more pythonic and functional on this one.
+
+So I did.
+Made more use of comprehensions and mapping methods (sum).
+And had a good time with sets.
+Resisted the temptation to cram it all into a single line though.
+
+## Day 4
