@@ -27,3 +27,15 @@ And had a good time with sets.
 Resisted the temptation to cram it all into a single line though.
 
 ## Day 4
+
+more sets...  subsets and non empty intersections.
+Getting a bit more pythonic I guess.
+And used lower and upper bound comparisons instead of sets this time.
+
+## Day 5
+
+A simple stack problem.
+Reading in the input was most of the time.
+used simple lists as stacks with append() and pop()
+
+## Day 6
