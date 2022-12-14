@@ -39,3 +39,9 @@ Reading in the input was most of the time.
 used simple lists as stacks with append() and pop()
 
 ## Day 6
+
+Pretty simple if you track the last time a character was seen.
+lots of opportunity for off-by-one errors though.
+Part 2 was literally changing a constant from 4 to 14
+
+## Day 7
