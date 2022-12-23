@@ -45,3 +45,9 @@ lots of opportunity for off-by-one errors though.
 Part 2 was literally changing a constant from 4 to 14
 
 ## Day 7
+
+Spent way too much time worried about accommodating things like cd ../..
+or multiple cd / commands in the input
+Ditched that and it became a very simple tree navigation problem.
+
+## Day 8
