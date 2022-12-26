@@ -51,3 +51,9 @@ or multiple cd / commands in the input
 Ditched that and it became a very simple tree navigation problem.
 
 ## Day 8
+
+Played a bit with named tuples
+and attempted to optimize data structure for problem solving ease.
+Worked well.
+
+## Day 9
